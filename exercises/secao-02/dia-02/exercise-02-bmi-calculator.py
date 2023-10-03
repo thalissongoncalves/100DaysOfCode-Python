@@ -5,7 +5,4 @@ weight = input("enter your weight in kg: ")
 
 #Write your code below this line 👇
 
-height_number = float(height)
-weight_number = int (weight)
-IMC = weight_number / height_number ** 2
-print(int(IMC))
+print(int(int(weight) / float(height) ** 2))

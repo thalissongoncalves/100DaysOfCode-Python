@@ -8,4 +8,4 @@ age_month = int(age) * 12
 age_week = int(age) * 52
 age_day = int(age) * 365
 
-print(f"You have {ninety_day - age_day} days, { ninety_week - age_week } weeks, and { ninety_month - age_month } months left.")
+print(f"You have { ninety_week - age_week } weeks left.")
