@@ -10,8 +10,9 @@ Obs: (clique com o botão direito do mouse e selecione "Abrir link em uma nova a
 [Projeto 03: Ilha do Tesouro](https://replit.com/@thalissongsilva/03-Ilha-do-tesouro) <br>
 [Projeto 04: Pedra, Papel, Tesoura](https://replit.com/@thalissongsilva/04-pedra-papel-tesoura) <br>
 [Projeto 05: Gerador de Senhas](https://replit.com/@thalissongsilva/05-gerador-de-senhas) <br>
-[Projeto 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze#main.py) <br>
-[Projeto 07: Jogo da Forca](https://replit.com/@thalissongsilva/07-Jogo-da-Forca)
+[Projeto 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
+[Projeto 07: Jogo da Forca](https://replit.com/@thalissongsilva/07-Jogo-da-Forca) <br>
+[Projeto 08: Codificador e Decodificador](https://replit.com/@thalissongsilva/08-Caeser-codificador-e-decodificador)
 
 # EN-US
 # Here will be the links to access the Executable Project
@@ -25,5 +26,6 @@ Note: (Right-click and select "Open link in a new tab" to open the link in a new
 [Project 03: Treasure Island](https://replit.com/@thalissongsilva/03-Treasure-Island-Start) <br>
 [Project 04: Rock, Paper, Scissors](https://replit.com/@thalissongsilva/04-rock-paper-scissors) <br>
 [Project 05: Password Generator](https://replit.com/@thalissongsilva/05-password-generator) <br>
-[Project 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze#main.py) <br>
-[Project 07: Hangman](https://replit.com/@thalissongsilva/07-Hangman)
+[Project 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
+[Project 07: Hangman](https://replit.com/@thalissongsilva/07-Hangman) <br>
+[Project 08: Encode and Decode](https://replit.com/@thalissongsilva/08-caeser-decode-or-encode)
