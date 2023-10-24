@@ -15,7 +15,7 @@ def blind_auctions():
         "bid": money
     }
     offer_list.append(new_offer)
-    question = input("Existem outros licitantes? Digite 'sim' ou 'não'.\n")
+    question = input("Existem outros licitantes? Digite 'sim' ou 'não'.\n").lower()
     if question == "sim":
         clear()
         blind_auctions()

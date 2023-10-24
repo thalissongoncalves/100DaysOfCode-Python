@@ -15,7 +15,7 @@ def blind_auctions():
         "bid": money
     }
     offer_list.append(new_offer)
-    question = input("Are there any other bidders? Type 'yes' or 'no'.\n")
+    question = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
     if question == "yes":
         clear()
         blind_auctions()
