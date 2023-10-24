@@ -12,3 +12,4 @@ Dia 05: For Loops, Range and Code Blocks; <br>
 Dia 06: Functions, Code Blocks and While Loops; <br>
 Dia 07: For & While Loops, IF / ELSE, Lists, Strings, Range, Modules; <br>
 Dia 08: Functions with Inputs, Arguments & Parameters; <br>
+Dia 09: Dictionares, Nesting; <br>
