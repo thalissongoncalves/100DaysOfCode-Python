@@ -12,7 +12,8 @@ Obs: (clique com o botão direito do mouse e selecione "Abrir link em uma nova a
 [Projeto 05: Gerador de Senhas](https://replit.com/@thalissongsilva/05-gerador-de-senhas) <br>
 [Projeto 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
 [Projeto 07: Jogo da Forca](https://replit.com/@thalissongsilva/07-Jogo-da-Forca) <br>
-[Projeto 08: Codificador e Decodificador](https://replit.com/@thalissongsilva/08-Caeser-codificador-e-decodificador)
+[Projeto 08: Codificador e Decodificador](https://replit.com/@thalissongsilva/08-Caeser-codificador-e-decodificador) <br>
+[Projeto 09: Leilão Secreto](https://replit.com/@thalissongsilva/09-Leilao-Secreto)
 
 # EN-US
 # Here will be the links to access the Executable Project
@@ -28,4 +29,5 @@ Note: (Right-click and select "Open link in a new tab" to open the link in a new
 [Project 05: Password Generator](https://replit.com/@thalissongsilva/05-password-generator) <br>
 [Project 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
 [Project 07: Hangman](https://replit.com/@thalissongsilva/07-Hangman) <br>
-[Project 08: Encode and Decode](https://replit.com/@thalissongsilva/08-caeser-decode-or-encode)
+[Project 08: Encode and Decode](https://replit.com/@thalissongsilva/08-caeser-decode-or-encode) <br>
+[Project 09: Blind Auctions](https://replit.com/@thalissongsilva/09-blind-auctions)
