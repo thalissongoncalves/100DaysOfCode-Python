@@ -13,7 +13,9 @@ Obs: (clique com o botão direito do mouse e selecione "Abrir link em uma nova a
 [Projeto 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
 [Projeto 07: Jogo da Forca](https://replit.com/@thalissongsilva/07-Jogo-da-Forca) <br>
 [Projeto 08: Codificador e Decodificador](https://replit.com/@thalissongsilva/08-Caeser-codificador-e-decodificador) <br>
-[Projeto 09: Leilão Secreto](https://replit.com/@thalissongsilva/09-Leilao-Secreto)
+[Projeto 09: Leilão Secreto](https://replit.com/@thalissongsilva/09-Leilao-Secreto) <br>
+[Projeto 10: Calculadora](https://replit.com/@thalissongsilva/10-Calculadora) <br>
+[Projeto 11: Jogo de carta VINTE E UM](https://replit.com/@thalissongsilva/11-Jogo-de-carta-Vinte-e-Um) <br>
 
 # EN-US
 # Here will be the links to access the Executable Project
@@ -30,4 +32,6 @@ Note: (Right-click and select "Open link in a new tab" to open the link in a new
 [Project 06: Reeborg's World - Waze](https://replit.com/@thalissongsilva/06-Reeborgs-world-waze) <br>
 [Project 07: Hangman](https://replit.com/@thalissongsilva/07-Hangman) <br>
 [Project 08: Encode and Decode](https://replit.com/@thalissongsilva/08-caeser-decode-or-encode) <br>
-[Project 09: Blind Auctions](https://replit.com/@thalissongsilva/09-blind-auctions)
+[Project 09: Blind Auctions](https://replit.com/@thalissongsilva/09-blind-auctions) <br>
+[Project 10: Calculator](https://replit.com/@thalissongsilva/10-Calculator) <br>
+[Project 11: Blackjack Game](https://replit.com/@thalissongsilva/11-Blackjack-Game) <br>
