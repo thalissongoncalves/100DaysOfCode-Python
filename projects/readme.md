@@ -16,6 +16,9 @@ Obs: (clique com o botão direito do mouse e selecione "Abrir link em uma nova a
 [Projeto 09: Leilão Secreto](https://replit.com/@thalissongsilva/09-Leilao-Secreto) <br>
 [Projeto 10: Calculadora](https://replit.com/@thalissongsilva/10-Calculadora) <br>
 [Projeto 11: Jogo de carta VINTE E UM](https://replit.com/@thalissongsilva/11-Jogo-de-carta-Vinte-e-Um) <br>
+[Projeto 12: Adivinhe o Número](https://replit.com/@thalissongsilva/12-Adivinhe-o-numero-game) <br>
+[Projeto 13: ]() <br>
+[Projeto 14: Superior ou Inferior](https://replit.com/@thalissongsilva/14-Superior-ou-Inferior) <br>
 
 # EN-US
 # Here will be the links to access the Executable Project
@@ -35,3 +38,6 @@ Note: (Right-click and select "Open link in a new tab" to open the link in a new
 [Project 09: Blind Auctions](https://replit.com/@thalissongsilva/09-blind-auctions) <br>
 [Project 10: Calculator](https://replit.com/@thalissongsilva/10-Calculator) <br>
 [Project 11: Blackjack Game](https://replit.com/@thalissongsilva/11-Blackjack-Game) <br>
+[Project 12: Number Guessing](https://replit.com/@thalissongsilva/12-Number-guessing-game) <br>
+[Project 13: ]() <br>
+[Project 14: Higher Lower](https://replit.com/@thalissongsilva/14-Project-Higher-Lower) <br>
